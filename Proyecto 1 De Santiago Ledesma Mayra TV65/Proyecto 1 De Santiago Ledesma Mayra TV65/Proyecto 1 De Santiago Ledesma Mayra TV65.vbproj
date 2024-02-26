@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Proyecto_1_De_Santiago_Ledesma_Mayra_TV65</RootNamespace>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\USUARIO\Documents\libretita\Program.vb" Link="Program.vb" />
+  </ItemGroup>
+
+</Project>

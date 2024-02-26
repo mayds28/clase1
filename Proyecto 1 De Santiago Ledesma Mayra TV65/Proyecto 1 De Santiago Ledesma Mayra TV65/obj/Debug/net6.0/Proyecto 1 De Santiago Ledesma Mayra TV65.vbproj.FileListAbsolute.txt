@@ -1,0 +1,15 @@
+C:\Users\USUARIO\source\repos\Proyecto 1 De Santiago Ledesma Mayra TV65\Proyecto 1 De Santiago Ledesma Mayra TV65\bin\Debug\net6.0\Proyecto 1 De Santiago Ledesma Mayra TV65.exe
+C:\Users\USUARIO\source\repos\Proyecto 1 De Santiago Ledesma Mayra TV65\Proyecto 1 De Santiago Ledesma Mayra TV65\bin\Debug\net6.0\Proyecto 1 De Santiago Ledesma Mayra TV65.deps.json
+C:\Users\USUARIO\source\repos\Proyecto 1 De Santiago Ledesma Mayra TV65\Proyecto 1 De Santiago Ledesma Mayra TV65\bin\Debug\net6.0\Proyecto 1 De Santiago Ledesma Mayra TV65.runtimeconfig.json
+C:\Users\USUARIO\source\repos\Proyecto 1 De Santiago Ledesma Mayra TV65\Proyecto 1 De Santiago Ledesma Mayra TV65\bin\Debug\net6.0\Proyecto 1 De Santiago Ledesma Mayra TV65.dll
+C:\Users\USUARIO\source\repos\Proyecto 1 De Santiago Ledesma Mayra TV65\Proyecto 1 De Santiago Ledesma Mayra TV65\bin\Debug\net6.0\Proyecto 1 De Santiago Ledesma Mayra TV65.pdb
+C:\Users\USUARIO\source\repos\Proyecto 1 De Santiago Ledesma Mayra TV65\Proyecto 1 De Santiago Ledesma Mayra TV65\obj\Debug\net6.0\Proyecto 1 De Santiago Ledesma Mayra TV65.vbproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Proyecto 1 De Santiago Ledesma Mayra TV65\Proyecto 1 De Santiago Ledesma Mayra TV65\obj\Debug\net6.0\Proyecto 1 De Santiago Ledesma Mayra TV65.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\Proyecto 1 De Santiago Ledesma Mayra TV65\Proyecto 1 De Santiago Ledesma Mayra TV65\obj\Debug\net6.0\Proyecto 1 De Santiago Ledesma Mayra TV65.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\Proyecto 1 De Santiago Ledesma Mayra TV65\Proyecto 1 De Santiago Ledesma Mayra TV65\obj\Debug\net6.0\Proyecto 1 De Santiago Ledesma Mayra TV65.AssemblyInfo.vb
+C:\Users\USUARIO\source\repos\Proyecto 1 De Santiago Ledesma Mayra TV65\Proyecto 1 De Santiago Ledesma Mayra TV65\obj\Debug\net6.0\Proyecto 1 De Santiago Ledesma Mayra TV65.vbproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Proyecto 1 De Santiago Ledesma Mayra TV65\Proyecto 1 De Santiago Ledesma Mayra TV65\obj\Debug\net6.0\Proyecto 1 De Santiago Ledesma Mayra TV65.dll
+C:\Users\USUARIO\source\repos\Proyecto 1 De Santiago Ledesma Mayra TV65\Proyecto 1 De Santiago Ledesma Mayra TV65\obj\Debug\net6.0\refint\Proyecto 1 De Santiago Ledesma Mayra TV65.dll
+C:\Users\USUARIO\source\repos\Proyecto 1 De Santiago Ledesma Mayra TV65\Proyecto 1 De Santiago Ledesma Mayra TV65\obj\Debug\net6.0\Proyecto 1 De Santiago Ledesma Mayra TV65.pdb
+C:\Users\USUARIO\source\repos\Proyecto 1 De Santiago Ledesma Mayra TV65\Proyecto 1 De Santiago Ledesma Mayra TV65\obj\Debug\net6.0\Proyecto 1 De Santiago Ledesma Mayra TV65.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\Proyecto 1 De Santiago Ledesma Mayra TV65\Proyecto 1 De Santiago Ledesma Mayra TV65\obj\Debug\net6.0\ref\Proyecto 1 De Santiago Ledesma Mayra TV65.dll
